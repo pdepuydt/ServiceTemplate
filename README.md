@@ -18,10 +18,9 @@ ServiceTemplate provides a structured starting point for developers aiming to im
 
 Ensure your system meets the following requirements:
 
-- **Operating System**: Debian Bookworm Lite on Raspberry Pi.
+- **Operating System**: Any recent Linux supporting systemd
 - **Compiler**: GCC (GNU Compiler Collection).
-- **Build Tool**: Make.
-- **Editor**: JOE (Joe's Own Editor).
+- **Build Tool**: Make
 
 ## Installation
 
