@@ -1,0 +1,13 @@
+[Unit]
+Description=YourService Systemd Service
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/YourService
+Restart=on-failure
+WatchdogSec=60
+User=yourserviceuser
+Group=yourservicegroup
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,12 @@
+# Ignore build artifacts
+build/
+bin/
+*.o
+*.out
+
+# Ignore editor/IDE files
+.vscode/
+*.swp
+
+# Ignore compiled binaries
+TeleDataScope
