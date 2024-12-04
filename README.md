@@ -75,7 +75,7 @@ To tailor the service to your needs:
 Contributions are welcome. Please fork the repository, create a new branch for your feature or bug fix, and submit a pull request for review.
 
 ## License
-See the GNU General Public License for more details. See the [LICENSE](LICENSE) file for details.
+See the GNU General Public License for more details. See the License file for details.
 
 ## Acknowledgements
 
